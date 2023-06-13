@@ -62,7 +62,7 @@ main {
 }
 
 .about {
-  background-color: #e59c9c;
+  background-color: #feccab;
   display: flex;
   align-items: center;
   width: 90%;
@@ -127,11 +127,11 @@ table caption {
 }
 
 table tr:nth-child(even) {
-  background-color: #f8aaaa;
+  background-color: #fce6d7;
 }
 
 table tr:nth-child(odd) {
-  background-color: #e59c9c;
+  background-color: #feccab;
 }
 
 form {
@@ -186,7 +186,7 @@ select {
 }
 
 .regbl {
-  background-color: #f7c4c4;
+  background-color: #fecca9;
   display: flex;
   justify-content: center;
   padding: 10px;
